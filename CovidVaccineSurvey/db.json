@@ -1,0 +1,8 @@
+{
+  "covishield": [
+    { "name": "Covishield", "seconddose": "56 days", "sideeffects": ["fever", "headache"], "precautions": ["Paracetamol for fever","consult doctor"]}
+  ],
+  "covaxin": [
+    { "name": "Covaxin", "seconddose": "28 days", "sideeffects": ["fever", "headache"], "precautions": ["Paracetamol for fever","consult doctor"] }
+  ]
+}
